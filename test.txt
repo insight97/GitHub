@@ -8,3 +8,5 @@ commitfrom 1
 commit 2
 
 branch issue1
+
+edit in issue 2
